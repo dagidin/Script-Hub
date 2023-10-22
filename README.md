@@ -1,6 +1,5 @@
 # Script Hub
-Script Hub is without a doubt the simplest coded script hub, that isn't impressive, but the fact that I can code some scripts in less than 10 lines and still keep it undetected is the really impressive part!
-This hub is dedicated to bringing a user-friendly experience to all it's users, if you want me to acknowledge your feedback join our Discord server! (coming soon)
+Script Hub is without a doubt the simplest coded script hub. This hub is dedicated to bringing a user-friendly experience to all it's users, if you want me to acknowledge your feedback join our Discord server! (coming soon)
 
 **Developers**:
 dagidin#0 VIA Discord
