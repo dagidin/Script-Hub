@@ -12,7 +12,7 @@ Along with this, Script Hub is completely non-skidded! Why would I skid somethin
 # How to Use?
 In order to use Script Hub, you must execute the script below.
 ```lua
--- working on it
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dagidin/Script-Hub/main/Loader.lua")()
 ```
 
 # Supported Games?
