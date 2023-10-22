@@ -18,4 +18,5 @@ In order to use Script Hub, you must execute the script below.
 # Supported Games?
 The supported games are the following.
 > Legends of Speed / https://www.roblox.com/games/3101667897/Legends-Of-Speed
+
 and more to come!
