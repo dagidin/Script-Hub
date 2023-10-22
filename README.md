@@ -9,7 +9,7 @@ This is a Roblox script hub, this supports only one game at this time, but I am 
 Along with this, Script Hub is completely non-skidded! Why would I skid something as simple as this?
 
 # How to Use?
-In order to use Script Hub, you must execute the script below.
+In order to use Script Hub, you must execute the script below on an executor of your choice.
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dagidin/Script-Hub/main/Loader.lua")()
 ```
