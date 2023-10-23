@@ -2,7 +2,7 @@ local Games = {
     {"Legends of Speed", 3101667897, "https://raw.githubusercontent.com/dagidin/Script-Hub/main/Legends%20of%20Speed%20/Script.lua"}
 }
 
-for i, Games in ipairs(Games) do
+for i, Game in ipairs(Games) do
     if game.PlaceId == Game[2] then
         local Script = Game[3]
         local Success, ErrMsg = 
