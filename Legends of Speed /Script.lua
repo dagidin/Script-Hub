@@ -31,7 +31,7 @@ local function CollectHoopsFunc()
         local PlayerHead = Player.Character:FindFirstChild("Head")
         while task.wait() do
             if not getgenv().CollectHoops then break end
-            for i, HoopTouch in pairs(game:GetService("Workspace.Hoops:GetDescendants()) do
+            for i, HoopTouch in pairs(game:GetService("Workspace").Hoops:GetDescendants()) do
                 if HoopTouch.Name == "TouchInterest" and HoopTouch.Parent then
                     firetouchinterest(PlayerHead, HoopTouch.Parent, 0)
                     task.wait(0.1)
