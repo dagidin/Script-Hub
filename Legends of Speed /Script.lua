@@ -1,8 +1,3 @@
---[[ WARNING! i don't actually know if this works
-i haven't tested it yet and wrote it based on prior knowledge
-if it doesn't work, contact me via discord with your error message!
-]]
-
 repeat task.wait() until game:IsLoaded()
 
 -- if you're snooping around my code, feel free to change up the settings! :^)
