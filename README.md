@@ -17,6 +17,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/dagidin/Script-Hub/ma
 # Supported Games?
 The supported games are the following.
 > Legends of Speed / https://www.roblox.com/games/3101667897/Legends-Of-Speed
+> 
 > Build a Boat for Treasure / https://www.roblox.com/games/537413528/Build-A-Boat-For-Treasure
 
 and more to come!
