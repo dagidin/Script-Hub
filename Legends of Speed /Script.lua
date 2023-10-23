@@ -3,6 +3,8 @@ i haven't tested it yet and wrote it based on prior knowledge
 if it doesn't work, contact me via discord with your error message!
 ]]
 
+repeat task.wait() until game:IsLoaded()
+
 -- if you're snooping around my code, feel free to change up the settings! :^)
 getgenv().CollectOrbs = true
 getgenv().CollectHoops = true
@@ -51,8 +53,6 @@ local function AutoRebirthFunc()
     end)
 end
 
-if game:IsLoaded() then
-    CollectOrbsFunc()
-    CollectHoopsFunc()
-    AutoRebirthFunc()
-end
+CollectOrbsFunc()
+CollectHoopsFunc()
+AutoRebirthFunc()
