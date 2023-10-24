@@ -16,6 +16,6 @@ for i, Game in ipairs(Games) do
         end
         break
     elseif i == #Games then
-        warn("Couldn't find specified game in the script-hub, if you wish to add a suggestion join our Discord server!")
+        warn("Couldn't find specified game in the script-hub")
     end
 end
