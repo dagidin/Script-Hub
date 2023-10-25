@@ -35,10 +35,16 @@ spawn(function()
     end
 end)
 
+local function AutoRebirth()
+    if not getgenv().AutoRebirth then return end
+    local Remote = game:GetService("ReplicatedStorage").rEvents.rebirthEvent
 
-spawn(function()
-    while task.wait(5) do
-        if not getgenv().AutoRebirth then break end
-        game:GetService("ReplicatedStorage").rEvents.rebirthEvent:FireServer("rebirthRequest")
+    local CurrentLevel = string.split(Player.PlayerGui.gameGui.statsFrame.levelLabel.Text, " ")
+    local RebirthLevel = string.split(Player.PlayerGui.gameGui.rebirthMenu.neededLabel.amountLabel.Text, " ")
+    if tonumber(CurrentLevel[2]) >= tonumber(RebirthLevel[1]) then
+        Remote:FireServer("rebirthRequest")
     end
-end)
+end
+
+local CurrentLevel = Player.PlayerGui.gameGui.statsFrame.levelLabel
+CurrentLevel.Changed:Connect(AutoRebirth)
