@@ -5,7 +5,7 @@ Script Hub is without a doubt the simplest coded script hub. This hub is dedicat
 dagidin#0 VIA Discord
 
 # What is Script Hub?
-This is a Roblox script hub, this supports only three games at this time, but I am constantly working on bringing more games to the table.
+This is a Roblox script hub, this supports only four games at this time, but I am constantly working on bringing more games to the table.
 Along with this, Script Hub is completely non-skidded! Why would I skid something as simple as this?
 
 # How to Use?
@@ -21,5 +21,7 @@ The supported games are the following.
 > Build a Boat for Treasure / https://www.roblox.com/games/537413528/Build-A-Boat-For-Treasure
 >
 > The Spinner / https://www.roblox.com/games/10228777202/The-Spinner
+>
+> Longest Answer Wins / https://www.roblox.com/games/9992339729/Longest-Answer-Wins
 
 and more to come!
