@@ -17,6 +17,7 @@ local function Notify(Txt)
 end
 
 local function AnswerQuestion()
+    if not getgenv().AutoAnswer then return end
     local Correct = Hint.Value
     local Length = #Correct
     
