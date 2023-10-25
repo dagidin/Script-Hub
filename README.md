@@ -1,5 +1,6 @@
 # Script Hub
 Script Hub is without a doubt the simplest coded script hub. This hub is dedicated to bringing a user-friendly experience to all it's users. If you have any suggestions feel free to dm me on Discord! (tag below)
+
 **Developers**:
 dagidin#0 VIA Discord
 
