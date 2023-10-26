@@ -25,12 +25,6 @@ If you want some settings disabled/enabled, open the folder which name is the na
 
 # Supported Games?
 The supported games are the following.
-> Legends of Speed / https://www.roblox.com/games/3101667897/Legends-Of-Speed
-> 
-> Build a Boat for Treasure / https://www.roblox.com/games/537413528/Build-A-Boat-For-Treasure
->
-> The Spinner / https://www.roblox.com/games/10228777202/The-Spinner
->
-> Longest Answer Wins / https://www.roblox.com/games/9992339729/Longest-Answer-Wins
+> https://raw.githubusercontent.com/dagidin/Script-Hub/main/Games.lua
 
 and more to come!
