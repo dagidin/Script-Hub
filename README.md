@@ -8,6 +8,7 @@ dagidin#0 VIA Discord
 # What is Script Hub?
 Script Hub is a Roblox game hub, it's written in Luau and only supports a few Roblox games at this times. However, I am constantly working on bringing more games to the table
 Some recommended executors to execute this script are:
+
 **SirHurt**:
 
 SirHurt is very cheap standing at only $10! It is very powerful and an execute not only this but practically every script!
