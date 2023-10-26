@@ -1,12 +1,19 @@
 # Script Hub
-Script Hub is without a doubt the simplest coded script hub. This hub is dedicated to bringing a user-friendly experience to all it's users. If you have any suggestions feel free to dm me on Discord! (tag below)
+Script Hub is a simply coded script hub. This hub is a project I started because I was bored. If you have any suggestions feel free to dm me on Discord! (tag below)
+I am by no means an experienced developer, I am only starting out and most games supported will be simple due to this.
 
 **Developers**:
 dagidin#0 VIA Discord
 
 # What is Script Hub?
-This is a Roblox script hub, this supports only four games at this time, but I am constantly working on bringing more games to the table.
-Along with this, script hub is the most skidded and detected piece of garbage to ever be written! /s
+Script Hub is a Roblox game hub, it's written in Luau and only supports a few Roblox games at this times. However, I am constantly working on bringing more games to the table
+Some recommended executors to execute this script are:
+**SirHurt**:
+
+SirHurt is very cheap standing at only $10! It is very powerful and an execute not only this but practically every script!
+
+**Purchase Here**:
+https://sirhurt.net/?ref=dagidin
 
 # How to Use?
 In order to use Script Hub, you must execute the script below on an executor of your choice.
